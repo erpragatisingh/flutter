@@ -25,4 +25,9 @@
 <li> Fonts: https://fonts.google.com
 <li> Google APIs: https://pub.dartlang.org/packages/googleapis
 <li> Async and Futures: https://www.dartlang.org/tutorials/language/futures
-<li> Testing: https://flutter.io/testing/
+<li> Testing: https://flutter.io/testing/</li>
+
+  # Flutter Courses
+  
+<li> Appbrewery - https://www.appbrewery.co/courses/548873/lectures/9985809
+<li> Udacity https://classroom.udacity.com/courses/ud905
