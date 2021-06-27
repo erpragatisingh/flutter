@@ -33,12 +33,19 @@
 <li> Udacity https://classroom.udacity.com/courses/ud905 </li>
 
  # There's also plenty of other resources to help you on the web. Here are some of my favourites:
- <a href="https://www.youtube.com/watch?v=yr8F2S3Amas&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK&index=1">The Boring Show - The official Flutter Developer Youtube series created by the Google Flutter team.</a>
+
+ <li> <a href="https://www.youtube.com/watch?v=yr8F2S3Amas&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK&index=1">The Boring Show - The official Flutter Developer Youtube series created by the Google Flutter team.</a>
  
- <a href="https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905">Build Native Mobile Apps with Flutter - This is a free Udacity course created by the Google Flutter team.</a>
-<a href="https://flutter.dev/docs/codelabs">Flutter Docs - While I can't recommend most docs as a learning resource, I would make an exception for the Flutter Docs. They are really great not just as a reference but as a study aid. I especially recommend the Codelabs.</a>
-<a href="https://itsallwidgets.com/">It's All Widgets - Published apps made with Flutter</a>
-<a href="https://flutter-widget.live/basics/introduction">Flutter Widget Livebook - A live, animated reference of Flutter Widges</a>
-<a href="https://gitter.im/flutter/flutter">Flutter Gitter - The Flutter Community in Gitter chat.</a>
-<a href="https://flutterevents.com/">Flutter Events - Find a mentor, get in touch with your local Flutter community and learn new things you can do with Flutter by going to a Flutter event near you.</a>
+ <li> <a href="https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905">Build Native Mobile Apps with Flutter - This is a free Udacity course created by the Google Flutter team.</a>
+
+ <li> <a href="https://flutter.dev/docs/codelabs">Flutter Docs - While I can't recommend most docs as a learning resource, I would make an exception for the Flutter Docs. They are really great not just as a reference but as a study aid. I especially recommend the Codelabs.</a>
+
+ <li> <a href="https://itsallwidgets.com/">It's All Widgets - Published apps made with Flutter</a>
+
+ <li> <a href="https://flutter-widget.live/basics/introduction">Flutter Widget Livebook - A live, animated reference of Flutter Widges</a>
+
+ <li> <a href="https://gitter.im/flutter/flutter">Flutter Gitter - The Flutter Community in Gitter chat.</a>
+
+ <li> <a href="https://flutterevents.com/">Flutter Events - Find a mentor, get in touch with your local Flutter community and learn new things you can do with Flutter by going to a Flutter event near you.</a>
+</li>
 <a href=""></a>
