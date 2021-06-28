@@ -1,4 +1,4 @@
-# bicard
+# Business card
 
 A single screen personal business card app
 
