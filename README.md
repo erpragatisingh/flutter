@@ -22,6 +22,7 @@
 <li> Flutter Layout: https://flutter.io/tutorials/layout/
 <li> Material: https://material.io
 <li> Icons: https://thenounproject.com
+<li> Icons: https://icons8.com/icons/ios-glyphs
 <li> Images: https://unsplash.com
 <li> Fonts: https://fonts.google.com
 <li> Google APIs: https://pub.dartlang.org/packages/googleapis
